@@ -7,3 +7,8 @@
 # IOS Expo QR code
 
 ![ios](https://github.com/Akshay200228/swiggy-UI-native/assets/119931755/d48b89d2-45db-4021-8e53-a73542baaf7f)
+
+
+# Screen Shots
+
+![swiggy App](https://github.com/Akshay200228/swiggy-UI-native/assets/119931755/cdd5c506-bff9-4c7c-81d2-d91ee8591d6a)
